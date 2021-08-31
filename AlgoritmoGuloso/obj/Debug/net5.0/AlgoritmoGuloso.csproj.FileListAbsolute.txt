@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\bin\Debug\net5.0\AlgoritmoGuloso.exe
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\bin\Debug\net5.0\AlgoritmoGuloso.deps.json
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\bin\Debug\net5.0\AlgoritmoGuloso.runtimeconfig.json
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\bin\Debug\net5.0\AlgoritmoGuloso.runtimeconfig.dev.json
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\bin\Debug\net5.0\AlgoritmoGuloso.dll
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\bin\Debug\net5.0\ref\AlgoritmoGuloso.dll
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\bin\Debug\net5.0\AlgoritmoGuloso.pdb
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\obj\Debug\net5.0\AlgoritmoGuloso.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\obj\Debug\net5.0\AlgoritmoGuloso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\obj\Debug\net5.0\AlgoritmoGuloso.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\obj\Debug\net5.0\AlgoritmoGuloso.AssemblyInfo.cs
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\obj\Debug\net5.0\AlgoritmoGuloso.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\obj\Debug\net5.0\AlgoritmoGuloso.dll
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\obj\Debug\net5.0\ref\AlgoritmoGuloso.dll
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\obj\Debug\net5.0\AlgoritmoGuloso.pdb
+C:\Users\victo\source\repos\AlgoritmoGuloso\AlgoritmoGuloso\obj\Debug\net5.0\AlgoritmoGuloso.genruntimeconfig.cache
